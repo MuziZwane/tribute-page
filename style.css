@@ -3,6 +3,10 @@
   line-height: 100px;
 }
 
+.main {
+  background-color: aqua;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
